@@ -1,6 +1,6 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.png';
-import G from '../assets/G.png';
+import F from '../assets/F.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
 import gallery03 from '../assets/gallery03.png';
@@ -24,7 +24,7 @@ import flavorfiesta from '../assets/flavorfiesta.png';
 export default {
   bg,
   chef,
-  G,
+  F,
   gallery01,
   gallery02,
   gallery03,
